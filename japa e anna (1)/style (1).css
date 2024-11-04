@@ -1,0 +1,27 @@
+body {
+    background-color: pink;
+    color: white;
+    font-family: 'kablammo', system-ui;
+}
+
+header {
+    border-bottom: solid 2px rgb(255, 5, 142);
+    padding: 0px;
+    font-size: 32px;
+    color: rgb(16, 206, 253);
+}
+
+section {
+    background: rgb(243, 127, 208);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+div {
+    margin-right: 5%;
+}
+.chamada-texto{ 
+    font-size: 30px;
+
+}
